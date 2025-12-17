@@ -34,7 +34,7 @@ export default function CurrencyCard(params: {
         </div>
 
         <p className="text-lg font-bold text-blue-600 tabular-nums">
-          {rate.toFixed(5)}
+          {rate ? Number(rate).toFixed(5) : "—"}
         </p>
       </div>
     </div>
