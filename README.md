@@ -1,6 +1,6 @@
 # 💱 CurrencyTracker
 
-A modern **currency & crypto tracking web app** built with **Next.js**. It allows users to view currency rates (Updated every 60 seconds) and convert currencies in real time with a clean UI, glassmorphism design, and responsive layout. A crypto tracking page is currently **work in progress (WIP)**.
+A modern **currency & crypto tracking web app** built with **Next.js**. It allows users to view currency rates (Updated every 60 seconds), Cryptocurrency rates and convert currencies in real time with a clean UI, glassmorphism design, and responsive layout.
 
 ---
 
@@ -37,8 +37,8 @@ The crypto tracking page is currently under development.
 
 Planned features:
 
-* Live crypto prices
-* Multiple crypto assets
+* Live crypto prices**(Done!)**
+* Multiple crypto assets**(Done!)**
 * Fiat ↔ Crypto comparison
 * Charts & historical data
 
